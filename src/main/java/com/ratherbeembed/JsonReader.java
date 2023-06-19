@@ -79,7 +79,7 @@ public class JsonReader {
 
         // Try to deserialize the trie if it exists
         try {
-            FileInputStream fileIn = new FileInputStream("trie.ser");
+            FileInputStream fileIn = new FileInputStream("pkjsontrie/trie.ser");
             ObjectInputStream in = new ObjectInputStream(fileIn);
             root = (TrieNode) in.readObject();
             in.close();
@@ -122,7 +122,7 @@ public class JsonReader {
 
         // Serialize the trie
         try {
-            FileOutputStream fileOut = new FileOutputStream("trie.ser");
+            FileOutputStream fileOut = new FileOutputStream("pkjsontrie/trie.ser");
             ObjectOutputStream out = new ObjectOutputStream(fileOut);
             out.writeObject(root);
             out.close();
