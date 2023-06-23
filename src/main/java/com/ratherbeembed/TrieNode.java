@@ -58,7 +58,6 @@ public class TrieNode implements Serializable {
     private void searchTrieHelper(TrieNode node, String query, StringBuilder prefix, List<SearchResult> results) {
         if (query.isEmpty()) {
             if (node.isEndOfWord()) {
-                // TODO
                 SearchResult result = new SearchResult(prefix.toString(), node.getURL());
             
                 results.add(result);
@@ -91,5 +90,4 @@ public class TrieNode implements Serializable {
             }
         }
     }
-
 }
