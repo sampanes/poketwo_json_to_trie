@@ -36900,36 +36900,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/864.png?v=26"
     },
-    "Galarian Farfetch\u2019d": {
-        "Name": "Galarian Farfetch'd",
-        "Number": 83,
-        "Description": "The stalks of leeks are thicker and longer in the Galar region. Farfetch\u2019d that adapted to these stalks took on a unique form.",
-        "Evolution": "Galarian Farfetch'd evolves to Sirfetch'd somehow.",
-        "Rarity": null,
-        "Types": [
-            "Fighting"
-        ],
-        "Region": "Kanto",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 52,
-            "Attack": 95,
-            "Defense": 55,
-            "Sp. Atk": 58,
-            "Sp. Def": 62,
-            "Speed": 55
-        },
-        "Names": {
-            "gb": [
-                "Galarian Farfetch'd"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.8 m",
-            "Weight": "42.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/10163.png?v=26"
-    },
     "Galarian Farfetch'd": {
         "Name": "Galarian Farfetch'd",
         "Number": 83,
@@ -36961,46 +36931,6 @@
         "URL": "https://cdn.poketwo.net/images/10163.png?v=26"
     },
     "Sirfetch'd": {
-        "Name": "Sirfetch'd",
-        "Number": 865,
-        "Description": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
-        "Evolution": "Sirfetch'd evolves from Galarian Farfetch'd somehow.",
-        "Rarity": null,
-        "Types": [
-            "Fighting"
-        ],
-        "Region": "Galar",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 62,
-            "Attack": 135,
-            "Defense": 95,
-            "Sp. Atk": 68,
-            "Sp. Def": 82,
-            "Speed": 65
-        },
-        "Names": {
-            "jp": [
-                "\u30cd\u30ae\u30ac\u30ca\u30a4\u30c8",
-                "Negiganaito"
-            ],
-            "gb": [
-                "Sirfetch'd"
-            ],
-            "de": [
-                "Lauchzelot"
-            ],
-            "fr": [
-                "Palarticho"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.8 m",
-            "Weight": "117.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/865.png?v=26"
-    },
-    "Sirfetch\u2019d": {
         "Name": "Sirfetch'd",
         "Number": 865,
         "Description": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
@@ -49739,47 +49669,6 @@
             "Weight": "60.0 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/82.png?v=26"
-    },
-    "Shiny Farfetch\u2019d": {
-        "Name": "\u2728 Farfetch'd",
-        "Number": 83,
-        "Description": "It can\u2019t live without the stalk it holds. That\u2019s why it defends the stalk from attackers with its life.",
-        "Evolution": null,
-        "Rarity": null,
-        "Types": [
-            "Normal",
-            "Flying"
-        ],
-        "Region": "Kanto",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 52,
-            "Attack": 90,
-            "Defense": 55,
-            "Sp. Atk": 58,
-            "Sp. Def": 62,
-            "Speed": 60
-        },
-        "Names": {
-            "jp": [
-                "\u30ab\u30e2\u30cd\u30ae",
-                "Kamonegi"
-            ],
-            "gb": [
-                "Farfetch'd"
-            ],
-            "de": [
-                "Porenta"
-            ],
-            "fr": [
-                "Canarticho"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.8 m",
-            "Weight": "15.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/83.png?v=26"
     },
     "Shiny Farfetch'd": {
         "Name": "\u2728 Farfetch'd",
@@ -83140,36 +83029,6 @@
             "Weight": "0.4 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/864.png?v=26"
-    },
-    "Shiny Galarian Farfetch\u2019d": {
-        "Name": "\u2728 Galarian Farfetch'd",
-        "Number": 83,
-        "Description": "The stalks of leeks are thicker and longer in the Galar region. Farfetch\u2019d that adapted to these stalks took on a unique form.",
-        "Evolution": "Galarian Farfetch'd evolves to Sirfetch'd somehow.",
-        "Rarity": null,
-        "Types": [
-            "Fighting"
-        ],
-        "Region": "Kanto",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 52,
-            "Attack": 95,
-            "Defense": 55,
-            "Sp. Atk": 58,
-            "Sp. Def": 62,
-            "Speed": 55
-        },
-        "Names": {
-            "gb": [
-                "Galarian Farfetch'd"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.8 m",
-            "Weight": "42.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/10163.png?v=26"
     },
     "Shiny Galarian Farfetch'd": {
         "Name": "\u2728 Galarian Farfetch'd",
