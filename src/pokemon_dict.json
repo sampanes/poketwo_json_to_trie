@@ -3414,47 +3414,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/82.png?v=26"
     },
-    "Farfetch\u2019d": {
-        "Name": "Farfetch'd",
-        "Number": 83,
-        "Description": "It can\u2019t live without the stalk it holds. That\u2019s why it defends the stalk from attackers with its life.",
-        "Evolution": null,
-        "Rarity": null,
-        "Types": [
-            "Normal",
-            "Flying"
-        ],
-        "Region": "Kanto",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 52,
-            "Attack": 90,
-            "Defense": 55,
-            "Sp. Atk": 58,
-            "Sp. Def": 62,
-            "Speed": 60
-        },
-        "Names": {
-            "jp": [
-                "\u30ab\u30e2\u30cd\u30ae",
-                "Kamonegi"
-            ],
-            "gb": [
-                "Farfetch'd"
-            ],
-            "de": [
-                "Porenta"
-            ],
-            "fr": [
-                "Canarticho"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.8 m",
-            "Weight": "15.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/83.png?v=26"
-    },
     "Farfetch'd": {
         "Name": "Farfetch'd",
         "Number": 83,
