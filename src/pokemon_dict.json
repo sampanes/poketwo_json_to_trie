@@ -1152,46 +1152,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/28.png?v=26"
     },
-    "Nidoran": {
-        "Name": "Nidoran\u2640",
-        "Number": 29,
-        "Description": "While this Pok\u00e9mon does not prefer to fight, even one drop of the venom it secretes from its barbs can be fatal.",
-        "Evolution": "Nidoran\u2640 evolves to Nidorina starting from level 16, which evolves to Nidoqueen using a Moon Stone.",
-        "Rarity": null,
-        "Types": [
-            "Poison"
-        ],
-        "Region": "Kanto",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 55,
-            "Attack": 47,
-            "Defense": 52,
-            "Sp. Atk": 40,
-            "Sp. Def": 40,
-            "Speed": 41
-        },
-        "Names": {
-            "jp": [
-                "\u30cb\u30c9\u30e9\u30f3\u2640",
-                "Nidoran\u2640"
-            ],
-            "gb": [
-                "Nidoran\u2640"
-            ],
-            "de": [
-                "Nidoran\u2640"
-            ],
-            "fr": [
-                "Nidoran\u2640"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.4 m",
-            "Weight": "7.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/29.png?v=26"
-    },
     "Nidoran\u2642": {
         "Name": "Nidoran\u2642",
         "Number": 32,
@@ -27681,47 +27641,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/668.png?v=26"
     },
-    "Flabebe": {
-        "Name": "Flab\u00e9b\u00e9",
-        "Number": 669,
-        "Description": "Flab\u00e9b\u00e9 wears a crown made from pollen it\u2019s collected from its flower. The crown has hidden healing properties.",
-        "Evolution": "Flab\u00e9b\u00e9 evolves to Floette starting from level 19, which evolves to Florges using a Shiny Stone.",
-        "Rarity": null,
-        "Types": [
-            "Fairy"
-        ],
-        "Region": "Kalos",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 44,
-            "Attack": 38,
-            "Defense": 39,
-            "Sp. Atk": 61,
-            "Sp. Def": 79,
-            "Speed": 42
-        },
-        "Names": {
-            "jp": [
-                "\u30d5\u30e9\u30d9\u30d9",
-                "Furabebe",
-                "Flabebe"
-            ],
-            "gb": [
-                "Flab\u00e9b\u00e9"
-            ],
-            "de": [
-                "Flab\u00e9b\u00e9"
-            ],
-            "fr": [
-                "Flab\u00e9b\u00e9"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.1 m",
-            "Weight": "0.1 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/669.png?v=26"
-    },
     "Flab\u00e9b\u00e9": {
         "Name": "Flab\u00e9b\u00e9",
         "Number": 669,
@@ -30822,7 +30741,7 @@
         },
         "URL": "https://cdn.poketwo.net/images/10124.png?v=26"
     },
-    "Pom-Pom Oricorio": {
+    "Pom-pom Oricorio": {
         "Name": "Pom-pom Oricorio",
         "Number": 741,
         "Description": "The energetic, cheerful dance of these Oricorio is popular with children, but the Oricorio themselves are hard to find in Paldea.",
@@ -47407,46 +47326,6 @@
             "Weight": "29.5 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/28.png?v=26"
-    },
-    "Shiny Nidoran": {
-        "Name": "\u2728 Nidoran\u2640",
-        "Number": 29,
-        "Description": "While this Pok\u00e9mon does not prefer to fight, even one drop of the venom it secretes from its barbs can be fatal.",
-        "Evolution": "Nidoran\u2640 evolves to Nidorina starting from level 16, which evolves to Nidoqueen using a Moon Stone.",
-        "Rarity": null,
-        "Types": [
-            "Poison"
-        ],
-        "Region": "Kanto",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 55,
-            "Attack": 47,
-            "Defense": 52,
-            "Sp. Atk": 40,
-            "Sp. Def": 40,
-            "Speed": 41
-        },
-        "Names": {
-            "jp": [
-                "\u30cb\u30c9\u30e9\u30f3\u2640",
-                "Nidoran\u2640"
-            ],
-            "gb": [
-                "Nidoran\u2640"
-            ],
-            "de": [
-                "Nidoran\u2640"
-            ],
-            "fr": [
-                "Nidoran\u2640"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.4 m",
-            "Weight": "7.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/29.png?v=26"
     },
     "Shiny Nidoran\u2642": {
         "Name": "\u2728 Nidoran\u2642",
@@ -73895,47 +73774,6 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/668.png?v=26"
     },
-    "Shiny Flabebe": {
-        "Name": "\u2728 Flab\u00e9b\u00e9",
-        "Number": 669,
-        "Description": "Flab\u00e9b\u00e9 wears a crown made from pollen it\u2019s collected from its flower. The crown has hidden healing properties.",
-        "Evolution": "Flab\u00e9b\u00e9 evolves to Floette starting from level 19, which evolves to Florges using a Shiny Stone.",
-        "Rarity": null,
-        "Types": [
-            "Fairy"
-        ],
-        "Region": "Kalos",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 44,
-            "Attack": 38,
-            "Defense": 39,
-            "Sp. Atk": 61,
-            "Sp. Def": 79,
-            "Speed": 42
-        },
-        "Names": {
-            "jp": [
-                "\u30d5\u30e9\u30d9\u30d9",
-                "Furabebe",
-                "Flabebe"
-            ],
-            "gb": [
-                "Flab\u00e9b\u00e9"
-            ],
-            "de": [
-                "Flab\u00e9b\u00e9"
-            ],
-            "fr": [
-                "Flab\u00e9b\u00e9"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.1 m",
-            "Weight": "0.1 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/669.png?v=26"
-    },
     "Shiny Flab\u00e9b\u00e9": {
         "Name": "\u2728 Flab\u00e9b\u00e9",
         "Number": 669,
@@ -96596,7 +96434,7 @@
         },
         "URL": "https://cdn.poketwo.net/images/10084.png?v=26"
     },
-    "Partner Cap Pikachu ": {
+    "Partner Cap Pikachu": {
         "Name": "Partner Cap Pikachu",
         "Number": 25,
         "Description": "This Pikachu wears its partner\u2019s cap\u2014proof of the strong bond Pikachu and its partner formed as the two overcame many hardships together.",
@@ -100652,7 +100490,7 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/10084.png?v=26"
     },
-    "Shiny Partner Cap Pikachu ": {
+    "Shiny Partner Cap Pikachu": {
         "Name": "\u2728 Partner Cap Pikachu",
         "Number": 25,
         "Description": "This Pikachu wears its partner\u2019s cap\u2014proof of the strong bond Pikachu and its partner formed as the two overcame many hardships together.",
