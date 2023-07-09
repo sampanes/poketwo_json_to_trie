@@ -76790,7 +76790,7 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/10124.png?v=26"
     },
-    "Shiny Pom-Pom Oricorio": {
+    "Shiny Pom-pom Oricorio": {
         "Name": "Shiny Pom-pom Oricorio",
         "Number": 741,
         "Description": "The energetic, cheerful dance of these Oricorio is popular with children, but the Oricorio themselves are hard to find in Paldea.",
@@ -82899,46 +82899,6 @@
         "URL": "https://cdn.poketwo.net/shiny/10163.png?v=26"
     },
     "Shiny Sirfetch'd": {
-        "Name": "Shiny Sirfetch'd",
-        "Number": 865,
-        "Description": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
-        "Evolution": "Sirfetch'd evolves from Galarian Farfetch'd somehow.",
-        "Rarity": null,
-        "Types": [
-            "Fighting"
-        ],
-        "Region": "Galar",
-        "Catchable": true,
-        "Base Stats": {
-            "HP": 62,
-            "Attack": 135,
-            "Defense": 95,
-            "Sp. Atk": 68,
-            "Sp. Def": 82,
-            "Speed": 65
-        },
-        "Names": {
-            "jp": [
-                "\u30cd\u30ae\u30ac\u30ca\u30a4\u30c8",
-                "Negiganaito"
-            ],
-            "gb": [
-                "Sirfetch'd"
-            ],
-            "de": [
-                "Lauchzelot"
-            ],
-            "fr": [
-                "Palarticho"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.8 m",
-            "Weight": "117.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/865.png?v=26"
-    },
-    "Shiny Sirfetch\u2019d": {
         "Name": "Shiny Sirfetch'd",
         "Number": 865,
         "Description": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
