@@ -138,9 +138,9 @@ if __name__ == "__main__":
     new_dict = {
         k: v for k, v in no_sym_dict.items() if v.get("Rarity") != "Event"
     }
-    new_dict.update = {
+    new_dict.update({
         k: v for k, v in no_sym_dict.items() if v.get("Rarity") == "Event"
-    }
+    })
 
     # Overwrite original dict with all changes above
     save(PKFILE_ORIG, new_dict)

@@ -43054,188 +43054,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/1010.png?v=26"
     },
-    "Autumn Leafeon": {
-        "Name": "Autumn Leafeon",
-        "Number": 470,
-        "Description": null,
-        "Evolution": "Autumn Leafeon evolves from Autumn Eevee using a Leaf Stone.",
-        "Rarity": "Event",
-        "Types": [
-            "Grass"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 65,
-            "Attack": 110,
-            "Defense": 130,
-            "Sp. Atk": 60,
-            "Sp. Def": 65,
-            "Speed": 95
-        },
-        "Names": {
-            "gb": [
-                "Autumn Leafeon"
-            ]
-        },
-        "Appearance": {
-            "Height": "1.0 m",
-            "Weight": "25.5 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50021.png?v=26"
-    },
-    "Autumn Eevee": {
-        "Name": "Autumn Eevee",
-        "Number": 133,
-        "Description": null,
-        "Evolution": "Autumn Eevee evolves to Autumn Leafeon using a Leaf Stone.",
-        "Rarity": "Event",
-        "Types": [
-            "Normal"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 55,
-            "Attack": 55,
-            "Defense": 50,
-            "Sp. Atk": 45,
-            "Sp. Def": 65,
-            "Speed": 55
-        },
-        "Names": {
-            "gb": [
-                "Autumn Eevee"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.3 m",
-            "Weight": "6.5 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50017.png?v=26"
-    },
-    "Autumn Bulbasaur": {
-        "Name": "Autumn Bulbasaur",
-        "Number": 1,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Event",
-        "Types": [
-            "Grass",
-            "Poison"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 45,
-            "Attack": 49,
-            "Defense": 49,
-            "Sp. Atk": 65,
-            "Sp. Def": 65,
-            "Speed": 45
-        },
-        "Names": {
-            "gb": [
-                "Autumn Bulbasaur"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.7 m",
-            "Weight": "6.9 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50016.png?v=26"
-    },
-    "Autumn Torterra": {
-        "Name": "Autumn Torterra",
-        "Number": 389,
-        "Description": null,
-        "Evolution": "Autumn Torterra evolves from Autumn Grotle starting from level 32, which evolves from Autumn Turtwig starting from level 18.",
-        "Rarity": "Event",
-        "Types": [
-            "Grass",
-            "Ground"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 95,
-            "Attack": 109,
-            "Defense": 105,
-            "Sp. Atk": 75,
-            "Sp. Def": 85,
-            "Speed": 56
-        },
-        "Names": {
-            "gb": [
-                "Autumn Torterra"
-            ]
-        },
-        "Appearance": {
-            "Height": "2.2 m",
-            "Weight": "310.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50020.png?v=26"
-    },
-    "Autumn Grotle": {
-        "Name": "Autumn Grotle",
-        "Number": 388,
-        "Description": null,
-        "Evolution": "Autumn Grotle evolves from Autumn Turtwig starting from level 18 and evolves to Autumn Torterra starting from level 32.",
-        "Rarity": "Event",
-        "Types": [
-            "Grass"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 75,
-            "Attack": 89,
-            "Defense": 85,
-            "Sp. Atk": 55,
-            "Sp. Def": 65,
-            "Speed": 36
-        },
-        "Names": {
-            "gb": [
-                "Autumn Grotle"
-            ]
-        },
-        "Appearance": {
-            "Height": "1.1 m",
-            "Weight": "97.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50019.png?v=26"
-    },
-    "Autumn Turtwig": {
-        "Name": "Autumn Turtwig",
-        "Number": 387,
-        "Description": null,
-        "Evolution": "Autumn Turtwig evolves to Autumn Grotle starting from level 18, which evolves to Autumn Torterra starting from level 32.",
-        "Rarity": "Event",
-        "Types": [
-            "Grass"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 55,
-            "Attack": 68,
-            "Defense": 64,
-            "Sp. Atk": 45,
-            "Sp. Def": 55,
-            "Speed": 31
-        },
-        "Names": {
-            "gb": [
-                "Autumn Turtwig"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.4 m",
-            "Weight": "10.2 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50018.png?v=26"
-    },
     "10% Zygarde": {
         "Name": "10% Zygarde",
         "Number": 718,
@@ -89186,188 +89004,6 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/1010.png?v=26"
     },
-    "Shiny Autumn Leafeon": {
-        "Name": "Shiny Autumn Leafeon",
-        "Number": 470,
-        "Description": null,
-        "Evolution": "Autumn Leafeon evolves from Autumn Eevee using a Leaf Stone.",
-        "Rarity": "Event",
-        "Types": [
-            "Grass"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 65,
-            "Attack": 110,
-            "Defense": 130,
-            "Sp. Atk": 60,
-            "Sp. Def": 65,
-            "Speed": 95
-        },
-        "Names": {
-            "gb": [
-                "Autumn Leafeon"
-            ]
-        },
-        "Appearance": {
-            "Height": "1.0 m",
-            "Weight": "25.5 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50021.png?v=26"
-    },
-    "Shiny Autumn Eevee": {
-        "Name": "Shiny Autumn Eevee",
-        "Number": 133,
-        "Description": null,
-        "Evolution": "Autumn Eevee evolves to Autumn Leafeon using a Leaf Stone.",
-        "Rarity": "Event",
-        "Types": [
-            "Normal"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 55,
-            "Attack": 55,
-            "Defense": 50,
-            "Sp. Atk": 45,
-            "Sp. Def": 65,
-            "Speed": 55
-        },
-        "Names": {
-            "gb": [
-                "Autumn Eevee"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.3 m",
-            "Weight": "6.5 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50017.png?v=26"
-    },
-    "Shiny Autumn Bulbasaur": {
-        "Name": "Shiny Autumn Bulbasaur",
-        "Number": 1,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Event",
-        "Types": [
-            "Grass",
-            "Poison"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 45,
-            "Attack": 49,
-            "Defense": 49,
-            "Sp. Atk": 65,
-            "Sp. Def": 65,
-            "Speed": 45
-        },
-        "Names": {
-            "gb": [
-                "Autumn Bulbasaur"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.7 m",
-            "Weight": "6.9 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50016.png?v=26"
-    },
-    "Shiny Autumn Torterra": {
-        "Name": "Shiny Autumn Torterra",
-        "Number": 389,
-        "Description": null,
-        "Evolution": "Autumn Torterra evolves from Autumn Grotle starting from level 32, which evolves from Autumn Turtwig starting from level 18.",
-        "Rarity": "Event",
-        "Types": [
-            "Grass",
-            "Ground"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 95,
-            "Attack": 109,
-            "Defense": 105,
-            "Sp. Atk": 75,
-            "Sp. Def": 85,
-            "Speed": 56
-        },
-        "Names": {
-            "gb": [
-                "Autumn Torterra"
-            ]
-        },
-        "Appearance": {
-            "Height": "2.2 m",
-            "Weight": "310.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50020.png?v=26"
-    },
-    "Shiny Autumn Grotle": {
-        "Name": "Shiny Autumn Grotle",
-        "Number": 388,
-        "Description": null,
-        "Evolution": "Autumn Grotle evolves from Autumn Turtwig starting from level 18 and evolves to Autumn Torterra starting from level 32.",
-        "Rarity": "Event",
-        "Types": [
-            "Grass"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 75,
-            "Attack": 89,
-            "Defense": 85,
-            "Sp. Atk": 55,
-            "Sp. Def": 65,
-            "Speed": 36
-        },
-        "Names": {
-            "gb": [
-                "Autumn Grotle"
-            ]
-        },
-        "Appearance": {
-            "Height": "1.1 m",
-            "Weight": "97.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50019.png?v=26"
-    },
-    "Shiny Autumn Turtwig": {
-        "Name": "Shiny Autumn Turtwig",
-        "Number": 387,
-        "Description": null,
-        "Evolution": "Autumn Turtwig evolves to Autumn Grotle starting from level 18, which evolves to Autumn Torterra starting from level 32.",
-        "Rarity": "Event",
-        "Types": [
-            "Grass"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 55,
-            "Attack": 68,
-            "Defense": 64,
-            "Sp. Atk": 45,
-            "Sp. Def": 55,
-            "Speed": 31
-        },
-        "Names": {
-            "gb": [
-                "Autumn Turtwig"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.4 m",
-            "Weight": "10.2 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50018.png?v=26"
-    },
     "Shiny 10% Zygarde": {
         "Name": "Shiny 10% Zygarde",
         "Number": 718,
@@ -92347,66 +91983,6 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/10017.png?v=26"
     },
-    "Pride Zigzagoon": {
-        "Name": "Pride Zigzagoon",
-        "Number": 263,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Event",
-        "Types": [
-            "Normal"
-        ],
-        "Region": "Hoenn",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 38,
-            "Attack": 30,
-            "Defense": 41,
-            "Sp. Atk": 30,
-            "Sp. Def": 41,
-            "Speed": 60
-        },
-        "Names": {
-            "gb": [
-                "Pride Zigzagoon"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.4 m",
-            "Weight": "17.5 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50106.png?v=26"
-    },
-    "Pride Comfey": {
-        "Name": "Pride Comfey",
-        "Number": 764,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Event",
-        "Types": [
-            "Fairy"
-        ],
-        "Region": "Alola",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 51,
-            "Attack": 52,
-            "Defense": 90,
-            "Sp. Atk": 82,
-            "Sp. Def": 110,
-            "Speed": 100
-        },
-        "Names": {
-            "gb": [
-                "Pride Comfey"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.1 m",
-            "Weight": "0.3 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50116.png?v=26"
-    },
     "Pride Arceus": {
         "Name": "Pride Arceus",
         "Number": 493,
@@ -92467,6 +92043,1249 @@
             "Weight": "4.0 kg"
         },
         "URL": "https://cdn.poketwo.net/images/50103.png?v=26"
+    },
+    "Spring Blooming Diancie": {
+        "Name": "Spring Blooming Diancie",
+        "Number": 719,
+        "Description": "It can instantly create many flowers by shaking its head to throw out seeds from the big flower on its head.",
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Rock",
+            "Fairy"
+        ],
+        "Region": "Kalos",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 50,
+            "Attack": 100,
+            "Defense": 150,
+            "Sp. Atk": 100,
+            "Sp. Def": 150,
+            "Speed": 50
+        },
+        "Names": {
+            "gb": [
+                "Spring Blooming Diancie",
+                "Spring Diancie"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.7 m",
+            "Weight": "8.8 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50097.png?v=26"
+    },
+    "Flower Pheromosa": {
+        "Name": "Flower Pheromosa",
+        "Number": 795,
+        "Description": "Although it's alien to this world, It's enjoying the sunny fashion for this Spring.",
+        "Evolution": null,
+        "Rarity": "Ultra Beast, Event",
+        "Types": [
+            "Bug",
+            "Fighting"
+        ],
+        "Region": "Alola",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 71,
+            "Attack": 137,
+            "Defense": 37,
+            "Sp. Atk": 137,
+            "Sp. Def": 37,
+            "Speed": 151
+        },
+        "Names": {
+            "gb": [
+                "Flower Pheromosa",
+                "Spring Pheromosa"
+            ]
+        },
+        "Appearance": {
+            "Height": "1.8 m",
+            "Weight": "25.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50099.png?v=26"
+    },
+    "Lights Mew": {
+        "Name": "Lights Mew",
+        "Number": 151,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Psychic"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 100,
+            "Attack": 100,
+            "Defense": 100,
+            "Sp. Atk": 100,
+            "Sp. Def": 100,
+            "Speed": 100
+        },
+        "Names": {
+            "gb": [
+                "Lights Mew",
+                "Christmas Mew"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.4 m",
+            "Weight": "4.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50082.png?v=26"
+    },
+    "Ice Yveltal": {
+        "Name": "Ice Yveltal",
+        "Number": 717,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Dark",
+            "Flying"
+        ],
+        "Region": "Kalos",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 126,
+            "Attack": 131,
+            "Defense": 95,
+            "Sp. Atk": 131,
+            "Sp. Def": 98,
+            "Speed": 99
+        },
+        "Names": {
+            "gb": [
+                "Ice Yveltal",
+                "Christmas Yveltal"
+            ]
+        },
+        "Appearance": {
+            "Height": "5.8 m",
+            "Weight": "203.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50088.png?v=26"
+    },
+    "Bouquet Shaymin": {
+        "Name": "Bouquet Shaymin",
+        "Number": 492,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Grass"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 100,
+            "Attack": 100,
+            "Defense": 100,
+            "Sp. Atk": 100,
+            "Sp. Def": 100,
+            "Speed": 100
+        },
+        "Names": {
+            "gb": [
+                "Bouquet Shaymin",
+                "Spring Shaymin"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.2 m",
+            "Weight": "2.1 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50060.png?v=26"
+    },
+    "Primal Glastrier": {
+        "Name": "Primal Glastrier",
+        "Number": 896,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Ice"
+        ],
+        "Region": "Galar",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 100,
+            "Attack": 145,
+            "Defense": 130,
+            "Sp. Atk": 65,
+            "Sp. Def": 110,
+            "Speed": 30
+        },
+        "Names": {
+            "gb": [
+                "Primal Glastrier",
+                "Winter Glastrier"
+            ]
+        },
+        "Appearance": {
+            "Height": "2.2 m",
+            "Weight": "800.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50057.png?v=26"
+    },
+    "Shadow Xerneas": {
+        "Name": "Shadow Xerneas",
+        "Number": 716,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Ghost",
+            "Fairy"
+        ],
+        "Region": "Kalos",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 126,
+            "Attack": 131,
+            "Defense": 95,
+            "Sp. Atk": 131,
+            "Sp. Def": 98,
+            "Speed": 99
+        },
+        "Names": {
+            "gb": [
+                "Shadow Xerneas",
+                "Halloween Xerneas"
+            ]
+        },
+        "Appearance": {
+            "Height": "3.0 m",
+            "Weight": "215.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50029.png?v=26"
+    },
+    "Ghost King Blacephalon": {
+        "Name": "Ghost King Blacephalon",
+        "Number": 806,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Ultra Beast, Event",
+        "Types": [
+            "Ghost",
+            "Fire"
+        ],
+        "Region": "Alola",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 53,
+            "Attack": 127,
+            "Defense": 53,
+            "Sp. Atk": 151,
+            "Sp. Def": 79,
+            "Speed": 107
+        },
+        "Names": {
+            "gb": [
+                "Ghost King Blacephalon",
+                "Halloween Blacephalon"
+            ]
+        },
+        "Appearance": {
+            "Height": "1.8 m",
+            "Weight": "13.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50031.png?v=26"
+    },
+    "Shadow Mewtwo": {
+        "Name": "Shadow Mewtwo",
+        "Number": 150,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Shadow",
+            "Psychic"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 106,
+            "Attack": 110,
+            "Defense": 90,
+            "Sp. Atk": 154,
+            "Sp. Def": 90,
+            "Speed": 130
+        },
+        "Names": {
+            "jp": [
+                "\u30c0\u30fc\u30af\u30df\u30e5\u30a6\u30c4\u30fc",
+                "D\u0101kumy\u016bts\u016b",
+                "Dark Mewtwo"
+            ],
+            "gb": [
+                "Shadow Mewtwo"
+            ],
+            "de": [
+                "Crypto-Mewtwo"
+            ],
+            "fr": [
+                "Mewtwo Obscur"
+            ]
+        },
+        "Appearance": {
+            "Height": "2.0 m",
+            "Weight": "122.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50014.png?v=26"
+    },
+    "Festive Hoopa": {
+        "Name": "Festive Hoopa",
+        "Number": 720,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Psychic",
+            "Ghost"
+        ],
+        "Region": "Kalos",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 80,
+            "Attack": 110,
+            "Defense": 60,
+            "Sp. Atk": 150,
+            "Sp. Def": 130,
+            "Speed": 70
+        },
+        "Names": {
+            "jp": [
+                "\u30af\u30ea\u30b9\u30de\u30b9\u30d5\u30fc\u30d1",
+                "Kurisumasuf\u016bpa",
+                "Christmas Hoopa"
+            ],
+            "gb": [
+                "Festive Hoopa"
+            ],
+            "de": [
+                "Weihnachten Hoopa"
+            ],
+            "fr": [
+                "Hoopa Festif"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.5 m",
+            "Weight": "9.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50006.png?v=26"
+    },
+    "Shadow Lugia": {
+        "Name": "Shadow Lugia",
+        "Number": 249,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Shadow",
+            "Flying"
+        ],
+        "Region": "Johto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 106,
+            "Attack": 90,
+            "Defense": 130,
+            "Sp. Atk": 90,
+            "Sp. Def": 154,
+            "Speed": 110
+        },
+        "Names": {
+            "jp": [
+                "\u30c0\u30fc\u30af\u30eb\u30ae\u30a2",
+                "D\u0101kurugia",
+                "Dark Lugia"
+            ],
+            "gb": [
+                "Shadow Lugia"
+            ],
+            "de": [
+                "Crypto-Lugia"
+            ],
+            "fr": [
+                "Lugia Obscur"
+            ]
+        },
+        "Appearance": {
+            "Height": "5.2 m",
+            "Weight": "216.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50001.png?v=26"
+    },
+    "Shiny Pride Arceus": {
+        "Name": "Shiny Pride Arceus",
+        "Number": 493,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Normal"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 120,
+            "Attack": 120,
+            "Defense": 120,
+            "Sp. Atk": 120,
+            "Sp. Def": 120,
+            "Speed": 120
+        },
+        "Names": {
+            "gb": [
+                "Pride Arceus"
+            ]
+        },
+        "Appearance": {
+            "Height": "3.2 m",
+            "Weight": "320.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50112.png?v=26"
+    },
+    "Shiny Pride Mew": {
+        "Name": "Shiny Pride Mew",
+        "Number": 151,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Psychic"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 100,
+            "Attack": 100,
+            "Defense": 100,
+            "Sp. Atk": 100,
+            "Sp. Def": 100,
+            "Speed": 100
+        },
+        "Names": {
+            "gb": [
+                "Pride Mew",
+                "Non-binary Pride Mew"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.4 m",
+            "Weight": "4.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50103.png?v=26"
+    },
+    "Shiny Spring Blooming Diancie": {
+        "Name": "Shiny Spring Blooming Diancie",
+        "Number": 719,
+        "Description": "It can instantly create many flowers by shaking its head to throw out seeds from the big flower on its head.",
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Rock",
+            "Fairy"
+        ],
+        "Region": "Kalos",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 50,
+            "Attack": 100,
+            "Defense": 150,
+            "Sp. Atk": 100,
+            "Sp. Def": 150,
+            "Speed": 50
+        },
+        "Names": {
+            "gb": [
+                "Spring Blooming Diancie",
+                "Spring Diancie"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.7 m",
+            "Weight": "8.8 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50097.png?v=26"
+    },
+    "Shiny Flower Pheromosa": {
+        "Name": "Shiny Flower Pheromosa",
+        "Number": 795,
+        "Description": "Although it's alien to this world, It's enjoying the sunny fashion for this Spring.",
+        "Evolution": null,
+        "Rarity": "Ultra Beast, Event",
+        "Types": [
+            "Bug",
+            "Fighting"
+        ],
+        "Region": "Alola",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 71,
+            "Attack": 137,
+            "Defense": 37,
+            "Sp. Atk": 137,
+            "Sp. Def": 37,
+            "Speed": 151
+        },
+        "Names": {
+            "gb": [
+                "Flower Pheromosa",
+                "Spring Pheromosa"
+            ]
+        },
+        "Appearance": {
+            "Height": "1.8 m",
+            "Weight": "25.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50099.png?v=26"
+    },
+    "Shiny Lights Mew": {
+        "Name": "Shiny Lights Mew",
+        "Number": 151,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Psychic"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 100,
+            "Attack": 100,
+            "Defense": 100,
+            "Sp. Atk": 100,
+            "Sp. Def": 100,
+            "Speed": 100
+        },
+        "Names": {
+            "gb": [
+                "Lights Mew",
+                "Christmas Mew"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.4 m",
+            "Weight": "4.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50082.png?v=26"
+    },
+    "Shiny Ice Yveltal": {
+        "Name": "Shiny Ice Yveltal",
+        "Number": 717,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Dark",
+            "Flying"
+        ],
+        "Region": "Kalos",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 126,
+            "Attack": 131,
+            "Defense": 95,
+            "Sp. Atk": 131,
+            "Sp. Def": 98,
+            "Speed": 99
+        },
+        "Names": {
+            "gb": [
+                "Ice Yveltal",
+                "Christmas Yveltal"
+            ]
+        },
+        "Appearance": {
+            "Height": "5.8 m",
+            "Weight": "203.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50088.png?v=26"
+    },
+    "Shiny Bouquet Shaymin": {
+        "Name": "Shiny Bouquet Shaymin",
+        "Number": 492,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Grass"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 100,
+            "Attack": 100,
+            "Defense": 100,
+            "Sp. Atk": 100,
+            "Sp. Def": 100,
+            "Speed": 100
+        },
+        "Names": {
+            "gb": [
+                "Bouquet Shaymin",
+                "Spring Shaymin"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.2 m",
+            "Weight": "2.1 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50060.png?v=26"
+    },
+    "Shiny Primal Glastrier": {
+        "Name": "Shiny Primal Glastrier",
+        "Number": 896,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Ice"
+        ],
+        "Region": "Galar",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 100,
+            "Attack": 145,
+            "Defense": 130,
+            "Sp. Atk": 65,
+            "Sp. Def": 110,
+            "Speed": 30
+        },
+        "Names": {
+            "gb": [
+                "Primal Glastrier",
+                "Winter Glastrier"
+            ]
+        },
+        "Appearance": {
+            "Height": "2.2 m",
+            "Weight": "800.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50057.png?v=26"
+    },
+    "Shiny Shadow Xerneas": {
+        "Name": "Shiny Shadow Xerneas",
+        "Number": 716,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Ghost",
+            "Fairy"
+        ],
+        "Region": "Kalos",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 126,
+            "Attack": 131,
+            "Defense": 95,
+            "Sp. Atk": 131,
+            "Sp. Def": 98,
+            "Speed": 99
+        },
+        "Names": {
+            "gb": [
+                "Shadow Xerneas",
+                "Halloween Xerneas"
+            ]
+        },
+        "Appearance": {
+            "Height": "3.0 m",
+            "Weight": "215.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50029.png?v=26"
+    },
+    "Shiny Ghost King Blacephalon": {
+        "Name": "Shiny Ghost King Blacephalon",
+        "Number": 806,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Ultra Beast, Event",
+        "Types": [
+            "Ghost",
+            "Fire"
+        ],
+        "Region": "Alola",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 53,
+            "Attack": 127,
+            "Defense": 53,
+            "Sp. Atk": 151,
+            "Sp. Def": 79,
+            "Speed": 107
+        },
+        "Names": {
+            "gb": [
+                "Ghost King Blacephalon",
+                "Halloween Blacephalon"
+            ]
+        },
+        "Appearance": {
+            "Height": "1.8 m",
+            "Weight": "13.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50031.png?v=26"
+    },
+    "Shiny Shadow Mewtwo": {
+        "Name": "Shiny Shadow Mewtwo",
+        "Number": 150,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Shadow",
+            "Psychic"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 106,
+            "Attack": 110,
+            "Defense": 90,
+            "Sp. Atk": 154,
+            "Sp. Def": 90,
+            "Speed": 130
+        },
+        "Names": {
+            "jp": [
+                "\u30c0\u30fc\u30af\u30df\u30e5\u30a6\u30c4\u30fc",
+                "D\u0101kumy\u016bts\u016b",
+                "Dark Mewtwo"
+            ],
+            "gb": [
+                "Shadow Mewtwo"
+            ],
+            "de": [
+                "Crypto-Mewtwo"
+            ],
+            "fr": [
+                "Mewtwo Obscur"
+            ]
+        },
+        "Appearance": {
+            "Height": "2.0 m",
+            "Weight": "122.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50014.png?v=26"
+    },
+    "Shiny Festive Hoopa": {
+        "Name": "Shiny Festive Hoopa",
+        "Number": 720,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Mythical, Event",
+        "Types": [
+            "Psychic",
+            "Ghost"
+        ],
+        "Region": "Kalos",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 80,
+            "Attack": 110,
+            "Defense": 60,
+            "Sp. Atk": 150,
+            "Sp. Def": 130,
+            "Speed": 70
+        },
+        "Names": {
+            "jp": [
+                "\u30af\u30ea\u30b9\u30de\u30b9\u30d5\u30fc\u30d1",
+                "Kurisumasuf\u016bpa",
+                "Christmas Hoopa"
+            ],
+            "gb": [
+                "Festive Hoopa"
+            ],
+            "de": [
+                "Weihnachten Hoopa"
+            ],
+            "fr": [
+                "Hoopa Festif"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.5 m",
+            "Weight": "9.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50006.png?v=26"
+    },
+    "Shiny Shadow Lugia": {
+        "Name": "Shiny Shadow Lugia",
+        "Number": 249,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Legendary, Event",
+        "Types": [
+            "Shadow",
+            "Flying"
+        ],
+        "Region": "Johto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 106,
+            "Attack": 90,
+            "Defense": 130,
+            "Sp. Atk": 90,
+            "Sp. Def": 154,
+            "Speed": 110
+        },
+        "Names": {
+            "jp": [
+                "\u30c0\u30fc\u30af\u30eb\u30ae\u30a2",
+                "D\u0101kurugia",
+                "Dark Lugia"
+            ],
+            "gb": [
+                "Shadow Lugia"
+            ],
+            "de": [
+                "Crypto-Lugia"
+            ],
+            "fr": [
+                "Lugia Obscur"
+            ]
+        },
+        "Appearance": {
+            "Height": "5.2 m",
+            "Weight": "216.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50001.png?v=26"
+    },
+    "Autumn Leafeon": {
+        "Name": "Autumn Leafeon",
+        "Number": 470,
+        "Description": null,
+        "Evolution": "Autumn Leafeon evolves from Autumn Eevee using a Leaf Stone.",
+        "Rarity": "Event",
+        "Types": [
+            "Grass"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 65,
+            "Attack": 110,
+            "Defense": 130,
+            "Sp. Atk": 60,
+            "Sp. Def": 65,
+            "Speed": 95
+        },
+        "Names": {
+            "gb": [
+                "Autumn Leafeon"
+            ]
+        },
+        "Appearance": {
+            "Height": "1.0 m",
+            "Weight": "25.5 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50021.png?v=26"
+    },
+    "Autumn Eevee": {
+        "Name": "Autumn Eevee",
+        "Number": 133,
+        "Description": null,
+        "Evolution": "Autumn Eevee evolves to Autumn Leafeon using a Leaf Stone.",
+        "Rarity": "Event",
+        "Types": [
+            "Normal"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 55,
+            "Attack": 55,
+            "Defense": 50,
+            "Sp. Atk": 45,
+            "Sp. Def": 65,
+            "Speed": 55
+        },
+        "Names": {
+            "gb": [
+                "Autumn Eevee"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.3 m",
+            "Weight": "6.5 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50017.png?v=26"
+    },
+    "Autumn Bulbasaur": {
+        "Name": "Autumn Bulbasaur",
+        "Number": 1,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Event",
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Sp. Atk": 65,
+            "Sp. Def": 65,
+            "Speed": 45
+        },
+        "Names": {
+            "gb": [
+                "Autumn Bulbasaur"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.7 m",
+            "Weight": "6.9 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50016.png?v=26"
+    },
+    "Autumn Torterra": {
+        "Name": "Autumn Torterra",
+        "Number": 389,
+        "Description": null,
+        "Evolution": "Autumn Torterra evolves from Autumn Grotle starting from level 32, which evolves from Autumn Turtwig starting from level 18.",
+        "Rarity": "Event",
+        "Types": [
+            "Grass",
+            "Ground"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 95,
+            "Attack": 109,
+            "Defense": 105,
+            "Sp. Atk": 75,
+            "Sp. Def": 85,
+            "Speed": 56
+        },
+        "Names": {
+            "gb": [
+                "Autumn Torterra"
+            ]
+        },
+        "Appearance": {
+            "Height": "2.2 m",
+            "Weight": "310.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50020.png?v=26"
+    },
+    "Autumn Grotle": {
+        "Name": "Autumn Grotle",
+        "Number": 388,
+        "Description": null,
+        "Evolution": "Autumn Grotle evolves from Autumn Turtwig starting from level 18 and evolves to Autumn Torterra starting from level 32.",
+        "Rarity": "Event",
+        "Types": [
+            "Grass"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 75,
+            "Attack": 89,
+            "Defense": 85,
+            "Sp. Atk": 55,
+            "Sp. Def": 65,
+            "Speed": 36
+        },
+        "Names": {
+            "gb": [
+                "Autumn Grotle"
+            ]
+        },
+        "Appearance": {
+            "Height": "1.1 m",
+            "Weight": "97.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50019.png?v=26"
+    },
+    "Autumn Turtwig": {
+        "Name": "Autumn Turtwig",
+        "Number": 387,
+        "Description": null,
+        "Evolution": "Autumn Turtwig evolves to Autumn Grotle starting from level 18, which evolves to Autumn Torterra starting from level 32.",
+        "Rarity": "Event",
+        "Types": [
+            "Grass"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 55,
+            "Attack": 68,
+            "Defense": 64,
+            "Sp. Atk": 45,
+            "Sp. Def": 55,
+            "Speed": 31
+        },
+        "Names": {
+            "gb": [
+                "Autumn Turtwig"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.4 m",
+            "Weight": "10.2 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50018.png?v=26"
+    },
+    "Shiny Autumn Leafeon": {
+        "Name": "Shiny Autumn Leafeon",
+        "Number": 470,
+        "Description": null,
+        "Evolution": "Autumn Leafeon evolves from Autumn Eevee using a Leaf Stone.",
+        "Rarity": "Event",
+        "Types": [
+            "Grass"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 65,
+            "Attack": 110,
+            "Defense": 130,
+            "Sp. Atk": 60,
+            "Sp. Def": 65,
+            "Speed": 95
+        },
+        "Names": {
+            "gb": [
+                "Autumn Leafeon"
+            ]
+        },
+        "Appearance": {
+            "Height": "1.0 m",
+            "Weight": "25.5 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50021.png?v=26"
+    },
+    "Shiny Autumn Eevee": {
+        "Name": "Shiny Autumn Eevee",
+        "Number": 133,
+        "Description": null,
+        "Evolution": "Autumn Eevee evolves to Autumn Leafeon using a Leaf Stone.",
+        "Rarity": "Event",
+        "Types": [
+            "Normal"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 55,
+            "Attack": 55,
+            "Defense": 50,
+            "Sp. Atk": 45,
+            "Sp. Def": 65,
+            "Speed": 55
+        },
+        "Names": {
+            "gb": [
+                "Autumn Eevee"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.3 m",
+            "Weight": "6.5 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50017.png?v=26"
+    },
+    "Shiny Autumn Bulbasaur": {
+        "Name": "Shiny Autumn Bulbasaur",
+        "Number": 1,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Event",
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "Region": "Kanto",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Sp. Atk": 65,
+            "Sp. Def": 65,
+            "Speed": 45
+        },
+        "Names": {
+            "gb": [
+                "Autumn Bulbasaur"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.7 m",
+            "Weight": "6.9 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50016.png?v=26"
+    },
+    "Shiny Autumn Torterra": {
+        "Name": "Shiny Autumn Torterra",
+        "Number": 389,
+        "Description": null,
+        "Evolution": "Autumn Torterra evolves from Autumn Grotle starting from level 32, which evolves from Autumn Turtwig starting from level 18.",
+        "Rarity": "Event",
+        "Types": [
+            "Grass",
+            "Ground"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 95,
+            "Attack": 109,
+            "Defense": 105,
+            "Sp. Atk": 75,
+            "Sp. Def": 85,
+            "Speed": 56
+        },
+        "Names": {
+            "gb": [
+                "Autumn Torterra"
+            ]
+        },
+        "Appearance": {
+            "Height": "2.2 m",
+            "Weight": "310.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50020.png?v=26"
+    },
+    "Shiny Autumn Grotle": {
+        "Name": "Shiny Autumn Grotle",
+        "Number": 388,
+        "Description": null,
+        "Evolution": "Autumn Grotle evolves from Autumn Turtwig starting from level 18 and evolves to Autumn Torterra starting from level 32.",
+        "Rarity": "Event",
+        "Types": [
+            "Grass"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 75,
+            "Attack": 89,
+            "Defense": 85,
+            "Sp. Atk": 55,
+            "Sp. Def": 65,
+            "Speed": 36
+        },
+        "Names": {
+            "gb": [
+                "Autumn Grotle"
+            ]
+        },
+        "Appearance": {
+            "Height": "1.1 m",
+            "Weight": "97.0 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50019.png?v=26"
+    },
+    "Shiny Autumn Turtwig": {
+        "Name": "Shiny Autumn Turtwig",
+        "Number": 387,
+        "Description": null,
+        "Evolution": "Autumn Turtwig evolves to Autumn Grotle starting from level 18, which evolves to Autumn Torterra starting from level 32.",
+        "Rarity": "Event",
+        "Types": [
+            "Grass"
+        ],
+        "Region": "Sinnoh",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 55,
+            "Attack": 68,
+            "Defense": 64,
+            "Sp. Atk": 45,
+            "Sp. Def": 55,
+            "Speed": 31
+        },
+        "Names": {
+            "gb": [
+                "Autumn Turtwig"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.4 m",
+            "Weight": "10.2 kg"
+        },
+        "URL": "https://cdn.poketwo.net/shiny/50018.png?v=26"
+    },
+    "Pride Zigzagoon": {
+        "Name": "Pride Zigzagoon",
+        "Number": 263,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Event",
+        "Types": [
+            "Normal"
+        ],
+        "Region": "Hoenn",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 38,
+            "Attack": 30,
+            "Defense": 41,
+            "Sp. Atk": 30,
+            "Sp. Def": 41,
+            "Speed": 60
+        },
+        "Names": {
+            "gb": [
+                "Pride Zigzagoon"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.4 m",
+            "Weight": "17.5 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50106.png?v=26"
+    },
+    "Pride Comfey": {
+        "Name": "Pride Comfey",
+        "Number": 764,
+        "Description": null,
+        "Evolution": null,
+        "Rarity": "Event",
+        "Types": [
+            "Fairy"
+        ],
+        "Region": "Alola",
+        "Catchable": false,
+        "Base Stats": {
+            "HP": 51,
+            "Attack": 52,
+            "Defense": 90,
+            "Sp. Atk": 82,
+            "Sp. Def": 110,
+            "Speed": 100
+        },
+        "Names": {
+            "gb": [
+                "Pride Comfey"
+            ]
+        },
+        "Appearance": {
+            "Height": "0.1 m",
+            "Weight": "0.3 kg"
+        },
+        "URL": "https://cdn.poketwo.net/images/50116.png?v=26"
     },
     "Pride Unown": {
         "Name": "Pride Unown",
@@ -93037,70 +93856,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/50095.png?v=26"
     },
-    "Spring Blooming Diancie": {
-        "Name": "Spring Blooming Diancie",
-        "Number": 719,
-        "Description": "It can instantly create many flowers by shaking its head to throw out seeds from the big flower on its head.",
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Rock",
-            "Fairy"
-        ],
-        "Region": "Kalos",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 50,
-            "Attack": 100,
-            "Defense": 150,
-            "Sp. Atk": 100,
-            "Sp. Def": 150,
-            "Speed": 50
-        },
-        "Names": {
-            "gb": [
-                "Spring Blooming Diancie",
-                "Spring Diancie"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.7 m",
-            "Weight": "8.8 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50097.png?v=26"
-    },
-    "Flower Pheromosa": {
-        "Name": "Flower Pheromosa",
-        "Number": 795,
-        "Description": "Although it's alien to this world, It's enjoying the sunny fashion for this Spring.",
-        "Evolution": null,
-        "Rarity": "Ultra Beast, Event",
-        "Types": [
-            "Bug",
-            "Fighting"
-        ],
-        "Region": "Alola",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 71,
-            "Attack": 137,
-            "Defense": 37,
-            "Sp. Atk": 137,
-            "Sp. Def": 37,
-            "Speed": 151
-        },
-        "Names": {
-            "gb": [
-                "Flower Pheromosa",
-                "Spring Pheromosa"
-            ]
-        },
-        "Appearance": {
-            "Height": "1.8 m",
-            "Weight": "25.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50099.png?v=26"
-    },
     "Eggneton": {
         "Name": "Eggneton",
         "Number": 82,
@@ -93352,37 +94107,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/50081.png?v=26"
     },
-    "Lights Mew": {
-        "Name": "Lights Mew",
-        "Number": 151,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Psychic"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 100,
-            "Attack": 100,
-            "Defense": 100,
-            "Sp. Atk": 100,
-            "Sp. Def": 100,
-            "Speed": 100
-        },
-        "Names": {
-            "gb": [
-                "Lights Mew",
-                "Christmas Mew"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.4 m",
-            "Weight": "4.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50082.png?v=26"
-    },
     "Christmas Tree Snorunt": {
         "Name": "Christmas Tree Snorunt",
         "Number": 361,
@@ -93506,38 +94230,6 @@
             "Weight": "89.0 kg"
         },
         "URL": "https://cdn.poketwo.net/images/50086.png?v=26"
-    },
-    "Ice Yveltal": {
-        "Name": "Ice Yveltal",
-        "Number": 717,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Dark",
-            "Flying"
-        ],
-        "Region": "Kalos",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 126,
-            "Attack": 131,
-            "Defense": 95,
-            "Sp. Atk": 131,
-            "Sp. Def": 98,
-            "Speed": 99
-        },
-        "Names": {
-            "gb": [
-                "Ice Yveltal",
-                "Christmas Yveltal"
-            ]
-        },
-        "Appearance": {
-            "Height": "5.8 m",
-            "Weight": "203.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50088.png?v=26"
     },
     "Coal Rolycoly": {
         "Name": "Coal Rolycoly",
@@ -94061,37 +94753,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/50059.png?v=26"
     },
-    "Bouquet Shaymin": {
-        "Name": "Bouquet Shaymin",
-        "Number": 492,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Grass"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 100,
-            "Attack": 100,
-            "Defense": 100,
-            "Sp. Atk": 100,
-            "Sp. Def": 100,
-            "Speed": 100
-        },
-        "Names": {
-            "gb": [
-                "Bouquet Shaymin",
-                "Spring Shaymin"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.2 m",
-            "Weight": "2.1 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50060.png?v=26"
-    },
     "Cherry Blossom Cottonee": {
         "Name": "Cherry Blossom Cottonee",
         "Number": 546,
@@ -94498,37 +95159,6 @@
             "Weight": "36.0 kg"
         },
         "URL": "https://cdn.poketwo.net/images/50056.png?v=26"
-    },
-    "Primal Glastrier": {
-        "Name": "Primal Glastrier",
-        "Number": 896,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Ice"
-        ],
-        "Region": "Galar",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 100,
-            "Attack": 145,
-            "Defense": 130,
-            "Sp. Atk": 65,
-            "Sp. Def": 110,
-            "Speed": 30
-        },
-        "Names": {
-            "gb": [
-                "Primal Glastrier",
-                "Winter Glastrier"
-            ]
-        },
-        "Appearance": {
-            "Height": "2.2 m",
-            "Weight": "800.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50057.png?v=26"
     },
     "Rudolph Vulpix": {
         "Name": "Rudolph Vulpix",
@@ -95255,38 +95885,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/50028.png?v=26"
     },
-    "Shadow Xerneas": {
-        "Name": "Shadow Xerneas",
-        "Number": 716,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Ghost",
-            "Fairy"
-        ],
-        "Region": "Kalos",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 126,
-            "Attack": 131,
-            "Defense": 95,
-            "Sp. Atk": 131,
-            "Sp. Def": 98,
-            "Speed": 99
-        },
-        "Names": {
-            "gb": [
-                "Shadow Xerneas",
-                "Halloween Xerneas"
-            ]
-        },
-        "Appearance": {
-            "Height": "3.0 m",
-            "Weight": "215.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50029.png?v=26"
-    },
     "Candy Corn Cutiefly": {
         "Name": "Candy Corn Cutiefly",
         "Number": 742,
@@ -95318,80 +95916,6 @@
             "Weight": "0.2 kg"
         },
         "URL": "https://cdn.poketwo.net/images/50030.png?v=26"
-    },
-    "Ghost King Blacephalon": {
-        "Name": "Ghost King Blacephalon",
-        "Number": 806,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Ultra Beast, Event",
-        "Types": [
-            "Ghost",
-            "Fire"
-        ],
-        "Region": "Alola",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 53,
-            "Attack": 127,
-            "Defense": 53,
-            "Sp. Atk": 151,
-            "Sp. Def": 79,
-            "Speed": 107
-        },
-        "Names": {
-            "gb": [
-                "Ghost King Blacephalon",
-                "Halloween Blacephalon"
-            ]
-        },
-        "Appearance": {
-            "Height": "1.8 m",
-            "Weight": "13.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50031.png?v=26"
-    },
-    "Shadow Mewtwo": {
-        "Name": "Shadow Mewtwo",
-        "Number": 150,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Shadow",
-            "Psychic"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 106,
-            "Attack": 110,
-            "Defense": 90,
-            "Sp. Atk": 154,
-            "Sp. Def": 90,
-            "Speed": 130
-        },
-        "Names": {
-            "jp": [
-                "\u30c0\u30fc\u30af\u30df\u30e5\u30a6\u30c4\u30fc",
-                "D\u0101kumy\u016bts\u016b",
-                "Dark Mewtwo"
-            ],
-            "gb": [
-                "Shadow Mewtwo"
-            ],
-            "de": [
-                "Crypto-Mewtwo"
-            ],
-            "fr": [
-                "Mewtwo Obscur"
-            ]
-        },
-        "Appearance": {
-            "Height": "2.0 m",
-            "Weight": "122.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50014.png?v=26"
     },
     "Anniversary Wooloo": {
         "Name": "Anniversary Wooloo",
@@ -95599,48 +96123,6 @@
             "Weight": "2.1 kg"
         },
         "URL": "https://cdn.poketwo.net/images/50005.png?v=26"
-    },
-    "Festive Hoopa": {
-        "Name": "Festive Hoopa",
-        "Number": 720,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Psychic",
-            "Ghost"
-        ],
-        "Region": "Kalos",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 80,
-            "Attack": 110,
-            "Defense": 60,
-            "Sp. Atk": 150,
-            "Sp. Def": 130,
-            "Speed": 70
-        },
-        "Names": {
-            "jp": [
-                "\u30af\u30ea\u30b9\u30de\u30b9\u30d5\u30fc\u30d1",
-                "Kurisumasuf\u016bpa",
-                "Christmas Hoopa"
-            ],
-            "gb": [
-                "Festive Hoopa"
-            ],
-            "de": [
-                "Weihnachten Hoopa"
-            ],
-            "fr": [
-                "Hoopa Festif"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.5 m",
-            "Weight": "9.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50006.png?v=26"
     },
     "Festive Farfetch'd": {
         "Name": "Festive Farfetch'd",
@@ -96179,48 +96661,6 @@
         },
         "URL": "https://cdn.poketwo.net/images/10143.png?v=26"
     },
-    "Shadow Lugia": {
-        "Name": "Shadow Lugia",
-        "Number": 249,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Shadow",
-            "Flying"
-        ],
-        "Region": "Johto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 106,
-            "Attack": 90,
-            "Defense": 130,
-            "Sp. Atk": 90,
-            "Sp. Def": 154,
-            "Speed": 110
-        },
-        "Names": {
-            "jp": [
-                "\u30c0\u30fc\u30af\u30eb\u30ae\u30a2",
-                "D\u0101kurugia",
-                "Dark Lugia"
-            ],
-            "gb": [
-                "Shadow Lugia"
-            ],
-            "de": [
-                "Crypto-Lugia"
-            ],
-            "fr": [
-                "Lugia Obscur"
-            ]
-        },
-        "Appearance": {
-            "Height": "5.2 m",
-            "Weight": "216.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/images/50001.png?v=26"
-    },
     "Ash's Greninja": {
         "Name": "Ash's Greninja",
         "Number": 658,
@@ -96493,67 +96933,6 @@
             "Weight": "0.3 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/50116.png?v=26"
-    },
-    "Shiny Pride Arceus": {
-        "Name": "Shiny Pride Arceus",
-        "Number": 493,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Normal"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 120,
-            "Attack": 120,
-            "Defense": 120,
-            "Sp. Atk": 120,
-            "Sp. Def": 120,
-            "Speed": 120
-        },
-        "Names": {
-            "gb": [
-                "Pride Arceus"
-            ]
-        },
-        "Appearance": {
-            "Height": "3.2 m",
-            "Weight": "320.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50112.png?v=26"
-    },
-    "Shiny Pride Mew": {
-        "Name": "Shiny Pride Mew",
-        "Number": 151,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Psychic"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 100,
-            "Attack": 100,
-            "Defense": 100,
-            "Sp. Atk": 100,
-            "Sp. Def": 100,
-            "Speed": 100
-        },
-        "Names": {
-            "gb": [
-                "Pride Mew",
-                "Non-binary Pride Mew"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.4 m",
-            "Weight": "4.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50103.png?v=26"
     },
     "Shiny Pride Unown": {
         "Name": "Shiny Pride Unown",
@@ -97093,70 +97472,6 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/50095.png?v=26"
     },
-    "Shiny Spring Blooming Diancie": {
-        "Name": "Shiny Spring Blooming Diancie",
-        "Number": 719,
-        "Description": "It can instantly create many flowers by shaking its head to throw out seeds from the big flower on its head.",
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Rock",
-            "Fairy"
-        ],
-        "Region": "Kalos",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 50,
-            "Attack": 100,
-            "Defense": 150,
-            "Sp. Atk": 100,
-            "Sp. Def": 150,
-            "Speed": 50
-        },
-        "Names": {
-            "gb": [
-                "Spring Blooming Diancie",
-                "Spring Diancie"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.7 m",
-            "Weight": "8.8 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50097.png?v=26"
-    },
-    "Shiny Flower Pheromosa": {
-        "Name": "Shiny Flower Pheromosa",
-        "Number": 795,
-        "Description": "Although it's alien to this world, It's enjoying the sunny fashion for this Spring.",
-        "Evolution": null,
-        "Rarity": "Ultra Beast, Event",
-        "Types": [
-            "Bug",
-            "Fighting"
-        ],
-        "Region": "Alola",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 71,
-            "Attack": 137,
-            "Defense": 37,
-            "Sp. Atk": 137,
-            "Sp. Def": 37,
-            "Speed": 151
-        },
-        "Names": {
-            "gb": [
-                "Flower Pheromosa",
-                "Spring Pheromosa"
-            ]
-        },
-        "Appearance": {
-            "Height": "1.8 m",
-            "Weight": "25.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50099.png?v=26"
-    },
     "Shiny Eggneton": {
         "Name": "Shiny Eggneton",
         "Number": 82,
@@ -97408,37 +97723,6 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/50081.png?v=26"
     },
-    "Shiny Lights Mew": {
-        "Name": "Shiny Lights Mew",
-        "Number": 151,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Psychic"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 100,
-            "Attack": 100,
-            "Defense": 100,
-            "Sp. Atk": 100,
-            "Sp. Def": 100,
-            "Speed": 100
-        },
-        "Names": {
-            "gb": [
-                "Lights Mew",
-                "Christmas Mew"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.4 m",
-            "Weight": "4.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50082.png?v=26"
-    },
     "Shiny Christmas Tree Snorunt": {
         "Name": "Shiny Christmas Tree Snorunt",
         "Number": 361,
@@ -97562,38 +97846,6 @@
             "Weight": "89.0 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/50086.png?v=26"
-    },
-    "Shiny Ice Yveltal": {
-        "Name": "Shiny Ice Yveltal",
-        "Number": 717,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Dark",
-            "Flying"
-        ],
-        "Region": "Kalos",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 126,
-            "Attack": 131,
-            "Defense": 95,
-            "Sp. Atk": 131,
-            "Sp. Def": 98,
-            "Speed": 99
-        },
-        "Names": {
-            "gb": [
-                "Ice Yveltal",
-                "Christmas Yveltal"
-            ]
-        },
-        "Appearance": {
-            "Height": "5.8 m",
-            "Weight": "203.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50088.png?v=26"
     },
     "Shiny Coal Rolycoly": {
         "Name": "Shiny Coal Rolycoly",
@@ -98117,37 +98369,6 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/50059.png?v=26"
     },
-    "Shiny Bouquet Shaymin": {
-        "Name": "Shiny Bouquet Shaymin",
-        "Number": 492,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Grass"
-        ],
-        "Region": "Sinnoh",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 100,
-            "Attack": 100,
-            "Defense": 100,
-            "Sp. Atk": 100,
-            "Sp. Def": 100,
-            "Speed": 100
-        },
-        "Names": {
-            "gb": [
-                "Bouquet Shaymin",
-                "Spring Shaymin"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.2 m",
-            "Weight": "2.1 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50060.png?v=26"
-    },
     "Shiny Cherry Blossom Cottonee": {
         "Name": "Shiny Cherry Blossom Cottonee",
         "Number": 546,
@@ -98554,37 +98775,6 @@
             "Weight": "36.0 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/50056.png?v=26"
-    },
-    "Shiny Primal Glastrier": {
-        "Name": "Shiny Primal Glastrier",
-        "Number": 896,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Ice"
-        ],
-        "Region": "Galar",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 100,
-            "Attack": 145,
-            "Defense": 130,
-            "Sp. Atk": 65,
-            "Sp. Def": 110,
-            "Speed": 30
-        },
-        "Names": {
-            "gb": [
-                "Primal Glastrier",
-                "Winter Glastrier"
-            ]
-        },
-        "Appearance": {
-            "Height": "2.2 m",
-            "Weight": "800.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50057.png?v=26"
     },
     "Shiny Rudolph Vulpix": {
         "Name": "Shiny Rudolph Vulpix",
@@ -99311,38 +99501,6 @@
         },
         "URL": "https://cdn.poketwo.net/shiny/50028.png?v=26"
     },
-    "Shiny Shadow Xerneas": {
-        "Name": "Shiny Shadow Xerneas",
-        "Number": 716,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Ghost",
-            "Fairy"
-        ],
-        "Region": "Kalos",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 126,
-            "Attack": 131,
-            "Defense": 95,
-            "Sp. Atk": 131,
-            "Sp. Def": 98,
-            "Speed": 99
-        },
-        "Names": {
-            "gb": [
-                "Shadow Xerneas",
-                "Halloween Xerneas"
-            ]
-        },
-        "Appearance": {
-            "Height": "3.0 m",
-            "Weight": "215.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50029.png?v=26"
-    },
     "Shiny Candy Corn Cutiefly": {
         "Name": "Shiny Candy Corn Cutiefly",
         "Number": 742,
@@ -99374,80 +99532,6 @@
             "Weight": "0.2 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/50030.png?v=26"
-    },
-    "Shiny Ghost King Blacephalon": {
-        "Name": "Shiny Ghost King Blacephalon",
-        "Number": 806,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Ultra Beast, Event",
-        "Types": [
-            "Ghost",
-            "Fire"
-        ],
-        "Region": "Alola",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 53,
-            "Attack": 127,
-            "Defense": 53,
-            "Sp. Atk": 151,
-            "Sp. Def": 79,
-            "Speed": 107
-        },
-        "Names": {
-            "gb": [
-                "Ghost King Blacephalon",
-                "Halloween Blacephalon"
-            ]
-        },
-        "Appearance": {
-            "Height": "1.8 m",
-            "Weight": "13.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50031.png?v=26"
-    },
-    "Shiny Shadow Mewtwo": {
-        "Name": "Shiny Shadow Mewtwo",
-        "Number": 150,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Shadow",
-            "Psychic"
-        ],
-        "Region": "Kanto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 106,
-            "Attack": 110,
-            "Defense": 90,
-            "Sp. Atk": 154,
-            "Sp. Def": 90,
-            "Speed": 130
-        },
-        "Names": {
-            "jp": [
-                "\u30c0\u30fc\u30af\u30df\u30e5\u30a6\u30c4\u30fc",
-                "D\u0101kumy\u016bts\u016b",
-                "Dark Mewtwo"
-            ],
-            "gb": [
-                "Shadow Mewtwo"
-            ],
-            "de": [
-                "Crypto-Mewtwo"
-            ],
-            "fr": [
-                "Mewtwo Obscur"
-            ]
-        },
-        "Appearance": {
-            "Height": "2.0 m",
-            "Weight": "122.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50014.png?v=26"
     },
     "Shiny Anniversary Wooloo": {
         "Name": "Shiny Anniversary Wooloo",
@@ -99655,48 +99739,6 @@
             "Weight": "2.1 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/50005.png?v=26"
-    },
-    "Shiny Festive Hoopa": {
-        "Name": "Shiny Festive Hoopa",
-        "Number": 720,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Mythical, Event",
-        "Types": [
-            "Psychic",
-            "Ghost"
-        ],
-        "Region": "Kalos",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 80,
-            "Attack": 110,
-            "Defense": 60,
-            "Sp. Atk": 150,
-            "Sp. Def": 130,
-            "Speed": 70
-        },
-        "Names": {
-            "jp": [
-                "\u30af\u30ea\u30b9\u30de\u30b9\u30d5\u30fc\u30d1",
-                "Kurisumasuf\u016bpa",
-                "Christmas Hoopa"
-            ],
-            "gb": [
-                "Festive Hoopa"
-            ],
-            "de": [
-                "Weihnachten Hoopa"
-            ],
-            "fr": [
-                "Hoopa Festif"
-            ]
-        },
-        "Appearance": {
-            "Height": "0.5 m",
-            "Weight": "9.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50006.png?v=26"
     },
     "Shiny Festive Farfetch'd": {
         "Name": "Shiny Festive Farfetch'd",
@@ -100234,48 +100276,6 @@
             "Weight": "0.7 kg"
         },
         "URL": "https://cdn.poketwo.net/shiny/10143.png?v=26"
-    },
-    "Shiny Shadow Lugia": {
-        "Name": "Shiny Shadow Lugia",
-        "Number": 249,
-        "Description": null,
-        "Evolution": null,
-        "Rarity": "Legendary, Event",
-        "Types": [
-            "Shadow",
-            "Flying"
-        ],
-        "Region": "Johto",
-        "Catchable": false,
-        "Base Stats": {
-            "HP": 106,
-            "Attack": 90,
-            "Defense": 130,
-            "Sp. Atk": 90,
-            "Sp. Def": 154,
-            "Speed": 110
-        },
-        "Names": {
-            "jp": [
-                "\u30c0\u30fc\u30af\u30eb\u30ae\u30a2",
-                "D\u0101kurugia",
-                "Dark Lugia"
-            ],
-            "gb": [
-                "Shadow Lugia"
-            ],
-            "de": [
-                "Crypto-Lugia"
-            ],
-            "fr": [
-                "Lugia Obscur"
-            ]
-        },
-        "Appearance": {
-            "Height": "5.2 m",
-            "Weight": "216.0 kg"
-        },
-        "URL": "https://cdn.poketwo.net/shiny/50001.png?v=26"
     },
     "Shiny Ash's Greninja": {
         "Name": "Shiny Ash's Greninja",
